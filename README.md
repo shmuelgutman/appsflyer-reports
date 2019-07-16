@@ -1,3 +1,4 @@
+`git clone https://github.com/shmuelgutman/appsflyer-reports.git`
 
 `npm install`
 
